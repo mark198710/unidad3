@@ -10,7 +10,7 @@ namespace Unidad3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola1.2");
+            Console.WriteLine("Hola2");
         }
     }
 }
